@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**danielberkompas/danielberkompas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the head of engineering at [LeadSimple](https://leadsimple.com), where we're building best-in-class CRM and workflow tools for real estate professionals. 
 
-Here are some ideas to get you started:
+**What I'm up to**  
+- 👪 Raising a family
+- 🏗️ Scaling our growing engineering team
+- 🚧 Open source work in the [Elixir](https://elixir-lang.org) ecosystem
+- :art: Learning to draw and paint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Links**
+- 🌐 [Personal website](https://danielberkompas.com)
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/danielberkompas/)
+- ⏯️ [LearnElixir.tv screencast series](https://www.learnelixir.tv)
+- ⏯️ [LearnPhoenix.tv screencast series](https://www.learnphoenix.tv)
