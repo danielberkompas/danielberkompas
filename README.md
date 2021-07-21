@@ -6,7 +6,6 @@ I'm the head of engineering at [LeadSimple](https://leadsimple.com), where we're
 - 👪 Raising a family
 - 🏗️ Scaling our growing engineering team
 - 🚧 Open source work in the [Elixir](https://elixir-lang.org) ecosystem
-- :art: Learning to draw and paint
 
 **Links**
 - 🌐 [Personal website](https://danielberkompas.com)
