@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm the head of engineering at [LeadSimple](https://leadsimple.com), where we're building best-in-class CRM and workflow tools for real estate professionals. 
+I'm the head of engineering at [LeadSimple](https://leadsimple.com), where we're building systems for real estate professionals. 
 
 **What I'm up to**  
 - 👪 Raising a family
