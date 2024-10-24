@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm the head of engineering at [LeadSimple](https://leadsimple.com), where we're building systems for real estate professionals. 
+I work at [LeadSimple](https://leadsimple.com), where we're building systems for real estate professionals. 
 
 **What I'm up to**  
 - 👪 Raising a family
-- 🏗️ Scaling our growing engineering team
+- 🌺 Managing our flower farm with my wife
+- 🏗️ Scaling up LeadSimple
 - 🚧 Open source work in the [Elixir](https://elixir-lang.org) ecosystem
 
 **Links**
